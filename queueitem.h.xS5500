@@ -1,0 +1,22 @@
+#ifndef QUEUEITEM_H
+#define QUEUEITEM_H
+
+#include "player.h"
+#include "gridsquare.h"
+
+class QueueItem
+{
+protected:
+    char type;
+    Player* owner;
+    GridSquare* pos;
+
+    int turnsLeft;
+public:
+    QueueItem();
+    ~QueueItem();
+    virtual void createItem() = 0;
+    void countdown();
+};
+
+#endif // QUEUEITEM_H

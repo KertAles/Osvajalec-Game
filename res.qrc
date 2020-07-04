@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/0.png</file>
+        <file>resources/1.png</file>
+        <file>resources/2.png</file>
+        <file>resources/3.png</file>
+        <file>resources/4.png</file>
+        <file>resources/5.png</file>
+        <file>terrain/hill.png</file>
+        <file>terrain/mountain.png</file>
+        <file>terrain/plain.png</file>
+        <file>terrain/wood.png</file>
+        <file>terrain/bunker.png</file>
+        <file>Units/worker.png</file>
+        <file>UI/foodIcon.png</file>
+        <file>UI/goldIcon.png</file>
+        <file>UI/ironIcon.png</file>
+        <file>UI/woodIcon.png</file>
+        <file>Buttons/attack.png</file>
+        <file>Buttons/destroy.png</file>
+        <file>Buttons/makeArcher.png</file>
+        <file>Buttons/makeFarm.png</file>
+        <file>Buttons/makeFort.png</file>
+        <file>Buttons/makeKnight.png</file>
+        <file>Buttons/makeMine.png</file>
+        <file>Buttons/makePikeman.png</file>
+        <file>Buttons/makeWoodcamp.png</file>
+        <file>Buttons/makeWorker.png</file>
+        <file>Buttons/move.png</file>
+        <file>Buildings/base.png</file>
+        <file>Buildings/farm.png</file>
+        <file>Buildings/fort.png</file>
+        <file>Buildings/mine.png</file>
+        <file>Buildings/woodcamp.png</file>
+        <file>Units/archer.png</file>
+        <file>Units/knight.png</file>
+        <file>Units/pikeman.png</file>
+        <file>Buttons/endTurn.png</file>
+        <file>Units/arrow.png</file>
+        <file>Units/arrowBurning.png</file>
+        <file>Units/boulder.png</file>
+    </qresource>
+</RCC>
