@@ -11,9 +11,11 @@ On the top bar is displayed your current stockpile of resources and your current
 
 
 ### Tiles
-On each tile you can have at most 1 unit at a time and at most 1 building. Resources are marked with coloured circles in the top right and it goes like this: gold - yellow, iron - grey, brown - wood and green - food. The amount of the resource is represented by the number in the circle. To exploit a resource that is within your area-of-influence(the tiles that are highlighted by your colour) you have to build an economic building on that tile - farm, mine or woodcamp and each building costs 1 wood resource, while the woodcamp is free. To increase your area-of-influence(AOI) you have to build forts which cost 3 iron, 6 wood and 2 gold to build and cost 1 gold to maintain.
 
 #### Buildings
+
+On each tile you can have at most 1 unit at a time and at most 1 building. Resources are marked with coloured circles in the top right and it goes like this: gold - yellow, iron - grey, brown - wood and green - food. The amount of the resource is represented by the number in the circle. To exploit a resource that is within your area-of-influence(the tiles that are highlighted by your colour) you have to build an economic building on that tile - farm, mine or woodcamp and each building costs 1 wood resource, while the woodcamp is free. To increase your area-of-influence(AOI) you have to build forts which cost 3 iron, 6 wood and 2 gold to build and cost 1 gold to maintain.
+
 To build buildings you need workers. Every player start with 1 worker, represented by a hammer icon. To build buildings, move the worker a controlled tile and select an available building. Workers can only be recruited at the main base and cost 1 food to maintain.
 
 #### Units
